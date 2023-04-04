@@ -1,0 +1,21 @@
+.containerSelect{
+    border-radius: 4%;
+
+}
+.Select{
+   background-color: brown;
+ border-radius: 4%;
+ color: whitesmoke;
+ font-family: 'Kanit', sans-serif;
+ font-weight: 800;
+ margin: 20px;
+} 
+
+.asc{
+    font-family: 'Kanit', sans-serif;
+}
+
+.dsc {
+ font-family: 'Kanit', sans-serif;
+
+}
