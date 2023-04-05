@@ -2,11 +2,13 @@
 
 Create the frontend for an ecommerce website .By  Using the following service to create a dummy ecommerce api service (create good amount of data): https://my-json-server.typicode.com/
 
+
+##Hosted Url:- [(https://ninja-commerce.onrender.com/)]
+
 ##Scrennshot
  ![Screenshot 2023-04-05 121703](https://user-images.githubusercontent.com/100330745/230002947-1364fade-c7b8-4694-bbf6-e0c5b14a027a.png)
 
 
-##Hosted Url:- [(https://ninja-commerce.onrender.com/)]
 
 
 ##command:-

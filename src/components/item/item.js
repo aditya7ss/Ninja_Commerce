@@ -4,6 +4,8 @@ const Item = ({ data, addToCart,handleEdit }) => {
 
     const { id, image, title, price} = data
 
+    
+
     return (
         <div className="card">
             <div className="grid">
@@ -22,8 +24,8 @@ const Item = ({ data, addToCart,handleEdit }) => {
                     <div className="cart" onClick={addToCart}>
                         <img className="cartImg" src="/cart.svg" alt="" />
                     </div>
-                    <div className="edit" >
-                     <img src='/edit.svg' alt='' onClick={handleEdit}/>
+                    <div className="edit" onClick={handleEdit}>
+                     <img className="editImg" src='/edit.svg' alt='' />
                     </div>
                 </div>
             </div>
